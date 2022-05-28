@@ -1,0 +1,23 @@
+{
+  "name": "jstypescript",
+  "version": "1.0.0",
+  "description": "first steps with TypeScript",
+  "main": "jsinterme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianPaulinoSantos/playingWithTypeScript.git"
+  },
+  "author": "Willian Paulino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianPaulinoSantos/playingWithTypeScript/issues"
+  },
+  "homepage": "https://github.com/willianPaulinoSantos/playingWithTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
