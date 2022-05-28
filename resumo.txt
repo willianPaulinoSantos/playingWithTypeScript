@@ -1,0 +1,9 @@
+Resumo do módulo:
+TypeScript é um superset (e graças ao deno está se transformando numa linguagem) que se compõe como uma camada sobre sua aplicação javaScript. Consegue trazer uma tipagem mais forte para sua aplicação JS e um controle maior, na medida em que implementa, entre outras coisas um compilador para gerar seus arquivos js (build). 
+É implementado no projeto através do npm, e gera um json onde você determina as configurações do projeto, de acordo com suas necessidade.
+Nesse módulo vimos os tipos básicos (number, string, array, enum, tupla, any, unknown, null e undefined).
+enum: representa numericamente algo legível. É possível definir valores customizados também. É declarado de maneira parecida com uma classe. 
+tupla: você pré-determina quantos elementos terão no array e de qual tipo será cada elemento. 
+Também vimos os conceitos de types, alias, unions e interceptions onde conseguimos pré-determinar chaves e tipos para objetos e variáveis. 
+Deu pra notar que o TypeScript vem para dar um controle maior sobre sua aplicação de uma maneira geral. 
+Com relação a POO, vimos os conceitos de classes, herança, tipos de modificadores (public, private and protected) e interfaces.
